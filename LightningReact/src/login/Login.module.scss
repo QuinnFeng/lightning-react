@@ -1,0 +1,20 @@
+.EditProduct {
+  width: 500px;
+  padding: 30px;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 2px 2px 2px 2px  grey;
+  margin : 40px auto;
+}
+.formDiv {
+  display:inline-block;
+  //float: left;
+  width: 49%;
+  padding:0;
+}
+.formDiv > input{
+  width: 230px;
+}
+div {
+  vertical-align: top;
+}

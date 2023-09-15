@@ -1,0 +1,23 @@
+.InnerDiv {
+  display: inline-block;
+  padding-right: 10px;
+  padding-bottom: 10px;
+}
+
+button{
+  background-color: white;
+  //border: none;
+}
+
+span>button{
+  border-radius: 10px;
+}
+
+input[type=number]::-webkit-inner-spin-button,
+input[type=number]::-webkit-outer-spin-button {
+  -webkit-appearance: none;
+}
+
+input[type=number] {
+  -moz-appearance: textfield;
+}

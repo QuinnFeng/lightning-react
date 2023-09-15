@@ -1,0 +1,36 @@
+.box {
+  border:1px solid black;
+  height:200px;
+  width:400px;
+  background-color:#005680;
+}
+
+.button1 {
+  width:50%;
+  height:100%;
+  float:left;
+  background-color: rgba(0,0,0,0);
+  border:0px solid black;
+}
+
+.button2 {
+  width:50%;
+  height:100%;
+  float:left;
+  background-color: rgba(0,0,0,0);
+  border:0px solid black;
+}
+
+.button1:hover {
+  background-color: rgba(10,10,10,0.1);
+}
+
+.button1:on{
+
+}
+
+
+.button2:hover {
+  background-color: rgba(10,10,10,0.1);
+}
+
